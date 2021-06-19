@@ -61,7 +61,7 @@ Here's why it's so awesome:
 <!-- Preview -->
 <h2 align="center">Preview</h2>
 
-<p align="center"><img src="img/mockup1.jpg" height=400 width=800/></p>
+<p align="center"><img src="mockup1.jpg" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
