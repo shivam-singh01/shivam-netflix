@@ -139,6 +139,6 @@ Contributions are what make the open source community such an amazing place to b
 * [CSS docs](https://www.w3schools.com/css/default.asp)
 * [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
-<h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
+<h3 align="right">Built with :heart: by <em>Shivam singh</em></h3>
 # Netflix_clone
 # Netflix-clone
