@@ -1,7 +1,7 @@
 <h2 align="center">Netflix Website Clone</h2>
 
 <p align="center">
-   <img src="img/Preview.gif" alt="Logo" height=250 width=250/>
+   <img src="Preview.gif" alt="Logo" height=250 width=250/>
 </p>
 
 <p align='center'> 
